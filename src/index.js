@@ -28,3 +28,9 @@ export * from './encoding/armor';
 export { default as enums } from './enums';
 
 export { default as config } from './config/config';
+
+export { default as util } from './util';
+
+export { default as crypto } from './crypto';
+
+export * from './encoding/base64';
