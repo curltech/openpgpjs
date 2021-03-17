@@ -1,5 +1,5 @@
 {
-  "name": "openpgp-curltech",
+  "name": "openpgp4curltech",
   "description": "OpenPGP.js is a Javascript implementation of the OpenPGP protocol. This is defined in RFC 4880.",
   "version": "5.0.0-1-curltech",
   "license": "LGPL-3.0+",
